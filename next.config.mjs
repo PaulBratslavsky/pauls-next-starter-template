@@ -18,10 +18,12 @@ const nextConfig = {
       },
       {
         protocol: "https",
-        hostname: "thoughtful-chickens-9661b5da26.media.strapiapp.com",
+        hostname: "determined-canvas-4ac12967af.media.strapiapp.com",
       },
     ],
   },
 };
 
 export default nextConfig;
+
+
